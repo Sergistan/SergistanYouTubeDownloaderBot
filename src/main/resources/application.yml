@@ -1,0 +1,8 @@
+server:
+  port: 8080
+bot_token: 7420085989:AAFLFFeMaq1AD-6rfLO8SNFm_5CzAZ6_BHE
+spring:
+  servlet:
+    multipart:
+      max-file-size: 1000000000
+      max-request-size: 100000000
